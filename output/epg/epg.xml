@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250731062351 +0800">
+<tv date="20250731103138 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -30453,6 +30453,15 @@
 	<programme channel="黑莓动画" start="20250731104600 +0800" stop="20250731121600 +0800">
 		<title lang="zh">太空夺旗</title>
 	</programme>
+	<programme channel="黑莓动画" start="20250731121600 +0800" stop="20250731132200 +0800">
+		<title lang="zh">狐妖小红娘b7月红2</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250731132200 +0800" stop="20250731145100 +0800">
+		<title lang="zh">海绵宝宝：水兵陆战队</title>
+	</programme>
+	<programme channel="黑莓动画" start="20250731145100 +0800" stop="20250731161700 +0800">
+		<title lang="zh">汪汪队立大功大电影（普通话版）</title>
+	</programme>
 	<channel id="黑莓电影">
 		<display-name lang="zh">黑莓电影</display-name>
 	</channel>
@@ -30476,6 +30485,15 @@
 	</programme>
 	<programme channel="黑莓电影" start="20250731102400 +0800" stop="20250731120300 +0800">
 		<title lang="zh">全职高手之巅峰荣耀</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250731120300 +0800" stop="20250731134100 +0800">
+		<title lang="zh">六扇门之玄武初现</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250731134100 +0800" stop="20250731151400 +0800">
+		<title lang="zh">山歌</title>
+	</programme>
+	<programme channel="黑莓电影" start="20250731151400 +0800" stop="20250731163600 +0800">
+		<title lang="zh">斗破苍穹3</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
